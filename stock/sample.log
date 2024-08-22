@@ -1,0 +1,151 @@
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testnet.binance.vision:443
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720086505544}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57785.69000000"}
+DEBUG:binance.api:url: https://testnet.binance.vision/sapi/v1/account/status
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /sapi/v1/account/status?timestamp=1720086507014&signature=5d9e46241b9b0408d585fe6d2ea3c0b7d24cbdc5b1a95f8b89f9228f0c05432a HTTP/1.1" 404 0
+DEBUG:binance.api:raw response from server:
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testnet.binance.vision:443
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720086585996}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57818.49000000"}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57756.09881278","closeTime":1720086586473}
+DEBUG:binance.api:url: https://testnet.binance.vision/sapi/v1/account/status
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /sapi/v1/account/status?timestamp=1720086588044&signature=e171b498ab816f2cd3149b071377a5fbff6916d88c4aeeafb303548a5eb5dcc0 HTTP/1.1" 404 0
+DEBUG:binance.api:raw response from server:
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testnet.binance.vision:443
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720086638800}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57822.40000000"}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57770.68155130","closeTime":1720086639643}
+DEBUG:binance.api:url: https://testnet.binance.vision/sapi/v1/account/apiTradingStatus
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /sapi/v1/account/apiTradingStatus?timestamp=1720086640748&signature=31211f785ed92c135dba2be55e58f9eba5346a8245818afa157f04d6c85889cc HTTP/1.1" 404 0
+DEBUG:binance.api:raw response from server:
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testnet.binance.vision:443
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720086689299}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57813.98000000"}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57789.64528307","closeTime":1720086689668}
+DEBUG:binance.api:url: https://testnet.binance.vision/sapi/v1/account/apiTradingStatus
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /sapi/v1/account/apiTradingStatus?timestamp=1720086691095&signature=b76006a7a55db5e82c209a71a61c7a4449137280592bf779bce5b016cd80756b HTTP/1.1" 404 0
+DEBUG:binance.api:raw response from server:
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testnet.binance.vision:443
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720086754319}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57775.29000000"}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57807.72807729","closeTime":1720086753940}
+DEBUG:binance.api:url: https://testnet.binance.vision/sapi/v1/asset/wallet/balance
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /sapi/v1/asset/wallet/balance?timestamp=1720086756380&signature=a5423458d3e87ba6d63d21f65d8fa3b3932b130eaaf2012bc5f82f86b8aec8eb HTTP/1.1" 404 0
+DEBUG:binance.api:raw response from server:
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testnet.binance.vision:443
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720086796190}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57774.39000000"}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57811.06318935","closeTime":1720086796765}
+DEBUG:binance.api:url: https://testnet.binance.vision/sapi/v1/asset/wallet/balance
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /sapi/v1/asset/wallet/balance?timestamp=1720086797797&signature=c083e4cef8be2bbb474719921d1ec53729152e9d3a171969a0b7a6826683aa20 HTTP/1.1" 404 0
+DEBUG:binance.api:raw response from server:
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testnet.binance.vision:443
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720086972544}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57855.99000000"}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57814.01877599","closeTime":1720086973299}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/order
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/order?symbol=BTCUSDT&orderId=11&recvWindow=10000&timestamp=1720086974427&signature=ee8e66f5b4fde72fa09b6de8ef7aa11f07b5bd026e7e9da56023604a94a12515 HTTP/1.1" 401 70
+DEBUG:binance.api:raw response from server:{"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testnet.binance.vision:443
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720087088662}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57787.76000000"}
+DEBUG:binance.api:url: https://testnet.binance.vision/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57827.58444806","closeTime":1720087089242}
+DEBUG:binance.api:url: https://testnet.binance.vision/sapi/v1/account/status
+DEBUG:urllib3.connectionpool:https://testnet.binance.vision:443 "GET /sapi/v1/account/status?timestamp=1720087090405&signature=96a31b211b392a914ec1844a87623b016dda289fb2a7838a8066f89d8606ed5e HTTP/1.1" 404 0
+DEBUG:binance.api:raw response from server:
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://api.binance.com/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720092049542}
+DEBUG:binance.api:url: https://api.binance.com/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57806.55000000"}
+DEBUG:binance.api:url: https://api.binance.com/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57838.70142318","closeTime":1720092049504}
+DEBUG:binance.api:url: https://api.binance.com/sapi/v1/account/status
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /sapi/v1/account/status?timestamp=1720092051384&signature=88fa8df5140fe691cc37549433ee3920a9bd754a2f7b268aa9c3eaf5c5406176 HTTP/1.1" 400 70
+DEBUG:binance.api:raw response from server:{"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://api.binance.com/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720092174826}
+DEBUG:binance.api:url: https://api.binance.com/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57782.01000000"}
+DEBUG:binance.api:url: https://api.binance.com/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57808.46762028","closeTime":1720092175011}
+DEBUG:binance.api:url: https://api.binance.com/sapi/v1/account/status
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /sapi/v1/account/status?recvWindow=10000&timestamp=1720092176342&signature=c8f43eec7d2cec57250e30cb74884c48069c42ac3113047f086564eb081285d6 HTTP/1.1" 400 70
+DEBUG:binance.api:raw response from server:{"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+DEBUG:root:################  This message indicates new run #################
+DEBUG:binance.api:url: https://api.binance.com/api/v3/time
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.binance.com:443
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/time HTTP/1.1" 200 28
+DEBUG:binance.api:raw response from server:{"serverTime":1720092192593}
+DEBUG:binance.api:url: https://api.binance.com/api/v3/ticker/price
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/ticker/price?symbol=BTCUSDT HTTP/1.1" 200 45
+DEBUG:binance.api:raw response from server:{"symbol":"BTCUSDT","price":"57789.74000000"}
+DEBUG:binance.api:url: https://api.binance.com/api/v3/avgPrice
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /api/v3/avgPrice?symbol=BTCUSDT HTTP/1.1" 200 61
+DEBUG:binance.api:raw response from server:{"mins":5,"price":"57806.19808623","closeTime":1720092192613}
+DEBUG:binance.api:url: https://api.binance.com/sapi/v1/account/status
+DEBUG:urllib3.connectionpool:https://api.binance.com:443 "GET /sapi/v1/account/status?recvWindow=10000&timestamp=1720092193902&signature=95fd7c81892ae17463e504ecd09f80919621dd50ad75cfe9852e671a03f2d76b HTTP/1.1" 400 70
+DEBUG:binance.api:raw response from server:{"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}

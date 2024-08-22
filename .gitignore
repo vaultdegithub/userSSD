@@ -1,0 +1,5 @@
+**/_pycache_/
+.vscode/
+virtualenv/
+*.mp4
+*.pt

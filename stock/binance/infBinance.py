@@ -1,6 +1,6 @@
 BINANCE = {
-    "api": "HiCvsxgq0Jj7TtppJ5f1l7wnBl8vE3b7BmBXYXnM0jl2O2ww5jQQmpEOpse6IoXt",
-    "api_secret": "tlUXSEpEU9m9Hq2H9vcC78DmeN1qyaim1nupg75aJRedsCHlJMwie0SSAS98P6uI"
+    "api": "xyx",
+    "api_secret": "xyz"
     }
 
 from binance.spot import Spot as Client
